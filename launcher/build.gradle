@@ -71,7 +71,7 @@ dependencies {
 
 String GITHUB_REPO_PATH = "G:\\ICode\\launcher"
 String PUBLISH_GROUP_ID = 'com.wenote'
-String PUBLISH_ARTIFACT_ID = 'launcher'
+String PUBLISH_ARTIFACT_ID = 'startUp'
 String PUBLISH_VERSION = '1.0.0'
 
 
